@@ -21,7 +21,7 @@ This is a shell-based application to manage student records for the Bachelor of 
 
 ## How to Use
 
-### Running the Main Script
+### In Running the Main Script
 
 1. Ensure the script has execute permissions:
     ```sh
@@ -32,7 +32,7 @@ This is a shell-based application to manage student records for the Bachelor of 
     ./main.sh
     ```
 
-### Main Script Menu Options
+### In Main Script Menu Options
 
 1. **Create student record**: Prompts for student email, age, and ID, then saves the record.
 2. **View all student records**: Displays all student records in the terminal.
