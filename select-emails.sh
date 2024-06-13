@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# File containing student records
+# The File is containing student records
 STUDENT_FILE="students-list_0524.txt"
 # File to save student emails
 EMAIL_FILE="student-emails.txt"
