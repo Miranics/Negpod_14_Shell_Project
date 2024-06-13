@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Defining the directory name based on the negpod ID
+#negpod ID
 NEG_POD_ID=14
 DIR_NAME="negpod_${NEG_POD_ID}-q1"
 
