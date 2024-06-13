@@ -1,10 +1,5 @@
 #!/bin/bash
 
-<<<<<<< HEAD
-STUDENT_FILE="students-list_0524.txt"
-
-# Function to display menu
-=======
 # The File is to store student records
 STUDENT_FILE="students-list_0524.txt"
 
@@ -17,7 +12,6 @@ welcome() {
 }
 
 # Function to display the menu
->>>>>>> 612e15b118bd25270cc582dfa5d362b02fabd702
 show_menu() {
     echo "1. Create student record"
     echo "2. View all students"
@@ -61,11 +55,7 @@ delete_student() {
     fi
 }
 
-<<<<<<< HEAD
 # Function to update a student record
-=======
-#This Function is to update a student record by ID
->>>>>>> 612e15b118bd25270cc582dfa5d362b02fabd702
 update_student() {
     echo "Enter student ID to update: "
     read id
