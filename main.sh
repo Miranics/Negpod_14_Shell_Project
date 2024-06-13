@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# File to store student records
+# The File is to store student records
 STUDENT_FILE="students-list_0524.txt"
 
-# Function to display a welcome message
+# This Function is to display a welcome message
 welcome() {
     echo "-------------------------------------------"
     echo "Welcome to the ALU Student Registration System"
@@ -57,7 +57,7 @@ delete_student() {
     fi
 }
 
-# Function to update a student record by ID
+#This Function is to update a student record by ID
 update_student() {
     echo "Enter student ID to update:"
     read student_id
