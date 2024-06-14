@@ -58,7 +58,13 @@ The emails will be saved in `student-emails.txt`.
 ### main.sh
 
 The main shell script to manage student records. It includes functions to create, view, delete, and update records, and a loop to display a menu and handle user input.
-
+1. create Student Record
+2. Save student Record
+3. view all students
+4. delete student record
+5. Update student record
+6. Exit the application
+7. Select and save student Emails
 ### students-list_1023.txt
 
 The text file where student records are stored. Each record is stored in the format:
