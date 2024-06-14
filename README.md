@@ -62,4 +62,9 @@ The main shell script to manage student records. It includes functions to create
 ### students-list_1023.txt
 
 The text file where student records are stored. Each record is stored in the format:
-
+Expected files to have in question 2:
+1. Move-to-directory.sh
+2. Negpod_id-q1
+3. backup-Negpod_ID.sh
+4. directory.sh
+5. 
