@@ -72,4 +72,4 @@ Expected files to have in question 2:
 1. Move-to-directory.sh
 2. Negpod_id-q1
 3. backup-Negpod_ID.sh
-the application will manage a list of student records, providing the following functionalities:
+the application will manage a list of student records.
