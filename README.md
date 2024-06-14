@@ -1,13 +1,13 @@
 # Negpod_14_Shell_Project
 
 #Team Members 
-***Mwiza Cannelle
-***Sharif Kiviiri
-***Nanen Miracle Mbanaade
-***David Muotoh-Francis
-***DaVinci Murengezi Gisanura
-***Fatoumata Ndiaye
-***Samuel Niyonkuru
+- **Mwiza Cannelle**
+- **Sharif Kiviiri**
+- **Nanen Miracle Mbanaade**
+- **David Muotoh-Francis**
+- **DaVinci Murengezi Gisanura**
+- **Fatoumata Ndiaye**
+- **Samuel Niyonkuru**
 
 # Student Registration System
 
