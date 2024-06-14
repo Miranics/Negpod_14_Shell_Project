@@ -66,4 +66,3 @@ Expected files to have in question 2:
 1. Move-to-directory.sh
 2. Negpod_id-q1
 3. backup-Negpod_ID.sh
-4. directory.sh 
