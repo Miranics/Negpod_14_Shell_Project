@@ -1,4 +1,14 @@
 # Negpod_14_Shell_Project
+
+#Team Members 
+***Mwiza Cannelle
+***Sharif Kiviiri
+***Nanen Miracle Mbanaade
+***David Muotoh-Francis
+***DaVinci Murengezi Gisanura
+***Fatoumata Ndiaye
+***Samuel Niyonkuru
+
 # Student Registration System
 
 This shell-based application manages student records for the Bachelor of Software Engineering cohort. It will allow users to create, view, delete, and update student records, as well as extract student emails. 
