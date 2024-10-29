@@ -48,7 +48,7 @@ This shell-based application manages student records for the Bachelor of Softwar
 2. **View all student records**: Displays all student records in the terminal.
 3. **Delete a student record**: Prompts for student ID and deletes the corresponding record.
 4. **Update a student record**: Prompts for student ID and updates the corresponding record with new details.
-5. **Exit**: Exits the application.
+5. **Exit**: Exits application.
 
 ### Extracting Emails
 
