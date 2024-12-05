@@ -70,7 +70,7 @@ The emails will be saved in `student-emails.txt`.
 The main shell script to manage student records. It includes functions to create, view, delete, and update records, and a loop to display a menu and also handle user input.
 1. create Student Record
 2. Save student Record
-3. view all students
+3. view students
 4. delete student record
 5. Update student record
 6. Exit the application
