@@ -3,7 +3,7 @@
 # Team Members 
 - **Mwiza Cannelle**
 - **Sharif Kiviiri**
-- **Nanen Miracle Mbanaade**
+- **Nanen Miracle Mbanaade
 - **David Muotoh-Francis**
 - **DaVinci Murengezi Gisanura**
 - **Fatoumata Ndiaye**
