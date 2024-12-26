@@ -64,7 +64,6 @@ This shell-based application manages student records for the Bachelor of Softwar
 The emails will be saved in `student-emails.txt`.
 
 ## File Descriptions
-
 ### main.sh
 
 The main shell script to manage student records. It includes functions to create, view, delete, and update records, and a loop to display a menu and also handle user input.
