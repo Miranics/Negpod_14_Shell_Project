@@ -52,7 +52,7 @@ This shell-based application manages student records for the Bachelor of Softwar
 
 ### Extracting Emails
 
-1. Ensure the script has execute permissions:
+1. Ensure the script has execute permissions:    
     ```sh
     chmod +x select-emails.sh
     ```
