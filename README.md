@@ -49,7 +49,7 @@ This shell-based application manages student records for the Bachelor of Softwar
 3. **Delete a student record**: Prompts for student ID and deletes the corresponding record.
 4. **Update a student record**: Prompts for student ID and updates the corresponding record with new details.
 5. **Exit**: Exits application.
-
+    
 ### Extracting Emails
 
 1. Ensure the script has execute permissions:    
