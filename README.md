@@ -7,7 +7,7 @@
 - **David Muotoh-Francis**
 - **DaVinci Murengezi Gisanura**     
 - **Fatoumata Ndiaye**
-- **Samuel Niyonkuru**
+- **Samuel Niyonkuru**  
 
 # Student Registration System
 
