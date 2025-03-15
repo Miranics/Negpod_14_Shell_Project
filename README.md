@@ -74,7 +74,7 @@ The main shell script to manage student records. It includes functions to create
 5. Update student record
 6. Exit the application
 7. Select and save student Emails
-### students-list_1023.txt    
+### students-list_1023.txt         
 
 The text file where student records are stored. Each record is stored in the format:
 Expected files to have in question 2:
