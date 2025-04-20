@@ -6,7 +6,7 @@
 - **Nanen Miracle Mbanaade***         
 - **David Muotoh-Francis**
 - **DaVinci Murengezi Gisanura**     
-- **Fatoumata Ndiaye**
+- **Fatoumata Ndiaye**     
 - **Samuel Niyonkuru**  
                   
 # Student Registration System   
