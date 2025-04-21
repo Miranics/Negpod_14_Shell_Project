@@ -14,7 +14,7 @@
 This shell-based application manages student records for the Bachelor of Software Engineering cohort. It will allow users to create, view, delete, and update student records, as well as extract student emails. 
 
 ## Files in the Project
-
+                          
 - **main.sh**: The main script to manage student records.
 - **students-list_1023.txt**: The file where student records are stored.
 - **select-emails.sh**: Script to extract student emails from the records.   
