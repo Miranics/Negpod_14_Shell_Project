@@ -4,7 +4,7 @@
 - **Mwiza Cannelle**
 - **Sharif Kiviiri**
 - **Nanen Miracle Mbanaade***         
-- **David Muotoh-Francis**                 
+- **David Muotoh-Francis**                    
 - **DaVinci Murengezi Gisanura**     
 - **Fatoumata Ndiaye**                         
 - **Samuel Niyonkuru**  
