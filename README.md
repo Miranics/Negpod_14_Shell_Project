@@ -5,7 +5,7 @@
 - **Sharif Kiviiri**
 - **Nanen Miracle Mbanaade***         
 - **David Muotoh-Francis**                    
-- **DaVinci Murengezi Gisanura**     
+- **DaVinci Murengezi Gisanura**                      
 - **Fatoumata Ndiaye**                         
 - **Samuel Niyonkuru**  
                   
