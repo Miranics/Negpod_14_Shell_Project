@@ -9,7 +9,7 @@
 - **Fatoumata Ndiaye**                         
 - **Samuel Niyonkuru**  
                   
-# Student Registration System                      
+# Student Registration System                                              
 
 This shell-based application manages student records for the Bachelor of Software Engineering cohort. It will allow users to create, view, delete, and update student records, as well as extract student emails. 
 
