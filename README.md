@@ -17,7 +17,7 @@ This shell-based application manages student records for the Bachelor of Softwar
                           
 - **main.sh**: The main script to manage student records.
 - **students-list_1023.txt**: The file where student records are stored.
-- **select-emails.sh**: Script to extract student emails from the records.   
+- **select-emails.sh**: Script to extract student emails from the records.                    
 - **student-emails.txt**: The file where extracted emails are saved.  
 
 ## Features
